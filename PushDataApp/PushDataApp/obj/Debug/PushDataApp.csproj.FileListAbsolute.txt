@@ -1,0 +1,14 @@
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\PushDataApp.exe.config
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\PushDataApp.exe
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\PushDataApp.pdb
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\Newtonsoft.Json.dll
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\Newtonsoft.Json.xml
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\experiment\PushDataApp\PushDataApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\experiment\PushDataApp\PushDataApp\obj\Debug\PushDataApp.csproj.App.config
+C:\experiment\PushDataApp\PushDataApp\obj\Debug\PushDataApp.csprojResolveAssemblyReference.cache
+C:\experiment\PushDataApp\PushDataApp\obj\Debug\PushDataApp.csproj.CoreCompileInputs.cache
+C:\experiment\PushDataApp\PushDataApp\obj\Debug\PushDataApp.exe
+C:\experiment\PushDataApp\PushDataApp\obj\Debug\PushDataApp.pdb
